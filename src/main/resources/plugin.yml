@@ -30,9 +30,6 @@ commands:
   redischat-setitem:
     description: Setitem command
     permission: redischat.setitem
-  talkon:
-    description: Talkon command
-    permission: redischat.talkon
   ignore:
     aliases: [allowmsg]
     description: Ignore command or allowmsg
@@ -41,8 +38,6 @@ commands:
     description: Clears the chat
     aliases: [cc]
     permission: redischat.clearchat
-  invshare:
-    description: 'Invshare'
   spychat:
     description: Spychat command
     aliases: [spyc]
